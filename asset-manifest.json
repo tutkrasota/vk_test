@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.981f7211.chunk.css",
-    "main.js": "/static/js/main.47ae5348.chunk.js",
-    "main.js.map": "/static/js/main.47ae5348.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1ab7242a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1ab7242a.js.map",
-    "static/css/2.4e89ce74.chunk.css": "/static/css/2.4e89ce74.chunk.css",
-    "static/js/2.4d227312.chunk.js": "/static/js/2.4d227312.chunk.js",
-    "static/js/2.4d227312.chunk.js.map": "/static/js/2.4d227312.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f3a60bfe400584f1261ef79520a80ce8.js": "/precache-manifest.f3a60bfe400584f1261ef79520a80ce8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.4e89ce74.chunk.css.map": "/static/css/2.4e89ce74.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/static/css/main.981f7211.chunk.css.map",
-    "static/media/persik.png": "/static/media/persik.ad9e9021.png"
+    "main.css": "/vk_test/static/css/main.981f7211.chunk.css",
+    "main.js": "/vk_test/static/js/main.47ae5348.chunk.js",
+    "main.js.map": "/vk_test/static/js/main.47ae5348.chunk.js.map",
+    "runtime-main.js": "/vk_test/static/js/runtime-main.66665874.js",
+    "runtime-main.js.map": "/vk_test/static/js/runtime-main.66665874.js.map",
+    "static/css/2.4e89ce74.chunk.css": "/vk_test/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.3100bc10.chunk.js": "/vk_test/static/js/2.3100bc10.chunk.js",
+    "static/js/2.3100bc10.chunk.js.map": "/vk_test/static/js/2.3100bc10.chunk.js.map",
+    "index.html": "/vk_test/index.html",
+    "precache-manifest.5c1d02bd09f0ee24de9cab95aa421ec7.js": "/vk_test/precache-manifest.5c1d02bd09f0ee24de9cab95aa421ec7.js",
+    "service-worker.js": "/vk_test/service-worker.js",
+    "static/css/2.4e89ce74.chunk.css.map": "/vk_test/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/vk_test/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/vk_test/static/media/persik.ad9e9021.png"
   }
 }
